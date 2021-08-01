@@ -1,0 +1,1621 @@
+
+Fault:21-10-2020 6:56:29-Не верное имя файла для подключения - core/base/controller/NClass
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 42
+
+Fault:21-10-2020 6:57:07-Не верное имя файла для подключения - core/base/controller/NClass
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 42
+
+Fault:24-10-2020 14:57:53-Не верное имя файла для подключения - core/base/controller/NClass
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 42
+
+Fault:24-10-2020 15:56:18-Не верное имя файла для подключения - core/admin/models/Model
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 42
+
+Fault:24-10-2020 15:57:07-Не верное имя файла для подключения - core/admin/models/Model
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 42
+
+Fault:24-10-2020 15:58:07-Не верное имя файла для подключения - core/admin/models/Model
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 42
+
+Fault:24-10-2020 15:59:50-Class core\user\controller\Favicon.icoController does not exist
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\controller\BaseController.php
+In line 55
+
+Fault:29-10-2020 17:55:11-Class core\user\controller\Favicon.icoController does not exist
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\controller\BaseController.php
+In line 55
+
+Fault:31-10-2020 22:14:23-Class core\user\controller\Favicon.icoController does not exist
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\controller\BaseController.php
+In line 55
+
+Fault:03-11-2020 12:27:18-Class core\user\controller\Favicon.icoController does not exist
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\controller\BaseController.php
+In line 55
+
+Fault:05-11-2020 17:41:07-Class core\user\controller\Favicon.icoController does not exist
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\controller\BaseController.php
+In line 55
+
+Fault:06-11-2020 18:25:44-Class core\user\controller\Favicon.icoController does not exist
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\controller\BaseController.php
+In line 55
+
+Fault:07-11-2020 14:26:46-Class core\user\controller\Favicon.icoController does not exist
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\controller\BaseController.php
+In line 55
+
+Fault:07-11-2020 20:56:22-Class core\user\controller\Favicon.icoController does not exist
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\controller\BaseController.php
+In line 55
+
+Fault:09-11-2020 16:59:21-Class core\user\controller\Favicon.icoController does not exist
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\controller\BaseController.php
+In line 55
+
+Fault:09-11-2020 17:03:59-Class core\user\controller\Favicon.icoController does not exist
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\controller\BaseController.php
+In line 55
+
+Fault:13-11-2020 16:47:39-Class core\user\controller\Favicon.icoController does not exist
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\controller\BaseController.php
+In line 55
+
+Fault:19-11-2020 17:56:11-Class core\user\controller\Favicon.icoController does not exist
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\controller\BaseController.php
+In line 55
+
+Fault:20-11-2020 2:10:15-Class core\user\controller\Favicon.icoController does not exist
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\controller\BaseController.php
+In line 55
+
+Fault:21-11-2020 23:15:23-Class core\user\controller\Favicon.icoController does not exist
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\controller\BaseController.php
+In line 55
+
+Fault:25-11-2020 3:00:20-Class core\user\controller\Favicon.icoController does not exist
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\controller\BaseController.php
+In line 55
+
+Fault:26-11-2020 1:42:53-Class core\user\controller\Favicon.icoController does not exist
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\controller\BaseController.php
+In line 60
+
+Fault:26-11-2020 1:44:07-Отсутствует шаблон - core/admin/viewinclude/header
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\controller\BaseController.php
+In line 124
+
+Fault:26-11-2020 2:28:23-Отсутствует шаблон - core/admin/viewinclude/header
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\controller\BaseController.php
+In line 124
+
+Fault:26-11-2020 2:31:17-Не верное имя файла для подключения - core/user/controller/TemplateController
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 43
+
+Fault:26-11-2020 2:31:17-Не верное имя файла для подключения - core/user/controller/TemplateController
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 43
+
+Fault:26-11-2020 2:31:17-Не верное имя файла для подключения - core/user/controller/TemplateController
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 43
+
+Fault:26-11-2020 2:31:17-Не верное имя файла для подключения - core/user/controller/TemplateController
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 43
+
+Fault:26-11-2020 2:31:18-Не верное имя файла для подключения - core/user/controller/TemplateController
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 43
+
+Fault:26-11-2020 2:31:18-Не верное имя файла для подключения - core/user/controller/TemplateController
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 43
+
+Fault:26-11-2020 2:41:01-Не верное имя файла для подключения - core/user/controller/CoreController
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 43
+
+Fault:26-11-2020 2:41:02-Не верное имя файла для подключения - core/user/controller/TemplateController
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 43
+
+Fault:26-11-2020 2:41:02-Не верное имя файла для подключения - core/user/controller/TemplateController
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 43
+
+Fault:26-11-2020 2:41:02-Не верное имя файла для подключения - core/user/controller/TemplateController
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 43
+
+Fault:26-11-2020 2:41:02-Не верное имя файла для подключения - core/user/controller/TemplateController
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 43
+
+Fault:26-11-2020 2:43:16-Не верное имя файла для подключения - core/user/controller/CoreController
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 43
+
+Fault:26-11-2020 2:43:16-Не верное имя файла для подключения - core/user/controller/TemplateController
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 43
+
+Fault:26-11-2020 2:43:16-Не верное имя файла для подключения - core/user/controller/TemplateController
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 43
+
+Fault:26-11-2020 2:43:16-Не верное имя файла для подключения - core/user/controller/TemplateController
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 43
+
+Fault:26-11-2020 2:43:16-Не верное имя файла для подключения - core/user/controller/TemplateController
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 43
+
+Fault:26-11-2020 2:44:26-Не верное имя файла для подключения - core/user/controller/CoreController
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 43
+
+Fault:26-11-2020 2:44:26-Не верное имя файла для подключения - core/user/controller/TemplateController
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 43
+
+Fault:26-11-2020 2:44:26-Не верное имя файла для подключения - core/user/controller/TemplateController
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 43
+
+Fault:26-11-2020 2:44:26-Не верное имя файла для подключения - core/user/controller/TemplateController
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 43
+
+Fault:26-11-2020 2:44:27-Не верное имя файла для подключения - core/user/controller/TemplateController
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 43
+
+Fault:26-11-2020 3:08:11-Не верное имя файла для подключения - core/user/controller/CoreController
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 43
+
+Fault:26-11-2020 3:08:11-Не верное имя файла для подключения - core/user/controller/TemplateController
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 43
+
+Fault:26-11-2020 3:08:11-Не верное имя файла для подключения - core/user/controller/TemplateController
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 43
+
+Fault:26-11-2020 3:08:11-Не верное имя файла для подключения - core/user/controller/TemplateController
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 43
+
+Fault:26-11-2020 3:08:11-Не верное имя файла для подключения - core/user/controller/TemplateController
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 43
+
+Fault:26-11-2020 3:18:33-Не верное имя файла для подключения - core/user/controller/CoreController
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 43
+
+Fault:26-11-2020 3:18:34-Не верное имя файла для подключения - core/user/controller/TemplateController
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 43
+
+Fault:26-11-2020 3:18:34-Не верное имя файла для подключения - core/user/controller/TemplateController
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 43
+
+Fault:26-11-2020 3:18:34-Не верное имя файла для подключения - core/user/controller/TemplateController
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 43
+
+Fault:26-11-2020 3:18:34-Не верное имя файла для подключения - core/user/controller/TemplateController
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 43
+
+Fault:26-11-2020 3:31:32-Отсутствует шаблон - core/admin/view/show
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\controller\BaseController.php
+In line 124
+
+Fault:26-11-2020 4:08:24-Не верное имя файла для подключения - core/user/controller/CoreController
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 43
+
+Fault:26-11-2020 4:08:24-Не верное имя файла для подключения - core/user/controller/TemplateController
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 43
+
+Fault:26-11-2020 4:08:24-Не верное имя файла для подключения - core/user/controller/TemplateController
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 43
+
+Fault:26-11-2020 4:08:25-Не верное имя файла для подключения - core/user/controller/TemplateController
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 43
+
+Fault:26-11-2020 4:08:25-Не верное имя файла для подключения - core/user/controller/ImagesController
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 43
+
+Fault:26-11-2020 4:08:25-Не верное имя файла для подключения - core/user/controller/TemplateController
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 43
+
+Fault:26-11-2020 4:08:25-Не верное имя файла для подключения - core/user/controller/TemplateController
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 43
+
+Fault:26-11-2020 4:12:12-Отсутствует шаблон - core/admin/view/show
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\controller\BaseController.php
+In line 124
+
+Fault:26-11-2020 4:13:38-Не верное имя файла для подключения - core/user/controller/CoreController
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 43
+
+Fault:26-11-2020 4:13:38-Не верное имя файла для подключения - core/user/controller/TemplateController
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 43
+
+Fault:26-11-2020 4:13:38-Не верное имя файла для подключения - core/user/controller/TemplateController
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 43
+
+Fault:26-11-2020 4:13:38-Не верное имя файла для подключения - core/user/controller/TemplateController
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 43
+
+Fault:26-11-2020 4:13:38-Не верное имя файла для подключения - core/user/controller/TemplateController
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 43
+
+Fault:26-11-2020 4:13:38-Не верное имя файла для подключения - core/user/controller/ImagesController
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 43
+
+Fault:26-11-2020 4:13:39-Не верное имя файла для подключения - core/user/controller/TemplateController
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 43
+
+Fault:26-11-2020 4:28:57-Не верное имя файла для подключения - core/user/controller/CoreController
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 43
+
+Fault:26-11-2020 4:28:57-Не верное имя файла для подключения - core/user/controller/TemplateController
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 43
+
+Fault:26-11-2020 4:28:57-Не верное имя файла для подключения - core/user/controller/TemplateController
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 43
+
+Fault:26-11-2020 4:28:57-Не верное имя файла для подключения - core/user/controller/TemplateController
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 43
+
+Fault:26-11-2020 4:28:57-Не верное имя файла для подключения - core/user/controller/TemplateController
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 43
+
+Fault:26-11-2020 4:29:06-Не верное имя файла для подключения - core/admin/controller/CreatesitemapController
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 43
+
+Fault:26-11-2020 4:29:47-Отсутствует шаблон - core/admin/view/include/header
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\controller\BaseController.php
+In line 124
+
+Fault:26-11-2020 4:55:26-Не верное имя файла для подключения - core/user/controller/CoreController
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 43
+
+Fault:26-11-2020 4:55:26-Не верное имя файла для подключения - core/user/controller/TemplateController
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 43
+
+Fault:26-11-2020 4:55:26-Не верное имя файла для подключения - core/user/controller/ImagesController
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 43
+
+Fault:26-11-2020 4:55:26-Не верное имя файла для подключения - core/user/controller/TemplateController
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 43
+
+Fault:26-11-2020 4:55:26-Не верное имя файла для подключения - core/user/controller/TemplateController
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 43
+
+Fault:26-11-2020 4:55:26-Не верное имя файла для подключения - core/user/controller/TemplateController
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 43
+
+Fault:26-11-2020 4:55:26-Не верное имя файла для подключения - core/user/controller/TemplateController
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 43
+
+Fault:26-11-2020 4:55:35-Не верное имя файла для подключения - core/user/controller/CoreController
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 43
+
+Fault:26-11-2020 4:55:35-Не верное имя файла для подключения - core/user/controller/TemplateController
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 43
+
+Fault:26-11-2020 4:55:36-Не верное имя файла для подключения - core/user/controller/TemplateController
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 43
+
+Fault:26-11-2020 4:55:36-Не верное имя файла для подключения - core/user/controller/TemplateController
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 43
+
+Fault:26-11-2020 4:55:36-Не верное имя файла для подключения - core/user/controller/TemplateController
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 43
+
+Fault:26-11-2020 4:55:36-Не верное имя файла для подключения - core/user/controller/TemplateController
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 43
+
+Fault:26-11-2020 4:55:36-Не верное имя файла для подключения - core/user/controller/ImagesController
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 43
+
+Fault:26-11-2020 5:23:03-Не верное имя файла для подключения - core/user/controller/CoreController
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 43
+
+Fault:26-11-2020 5:23:04-Не верное имя файла для подключения - core/user/controller/ImagesController
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 43
+
+Fault:26-11-2020 5:23:04-Не верное имя файла для подключения - core/user/controller/TemplateController
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 43
+
+Fault:26-11-2020 5:23:04-Не верное имя файла для подключения - core/user/controller/TemplateController
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 43
+
+Fault:26-11-2020 5:23:04-Не верное имя файла для подключения - core/user/controller/TemplateController
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 43
+
+Fault:26-11-2020 5:23:04-Не верное имя файла для подключения - core/user/controller/TemplateController
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 43
+
+Fault:26-11-2020 5:23:04-Не верное имя файла для подключения - core/user/controller/TemplateController
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 43
+
+Fault:26-11-2020 5:24:34-Не верное имя файла для подключения - core/user/controller/CoreController
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 43
+
+Fault:26-11-2020 5:24:35-Не верное имя файла для подключения - core/user/controller/TemplateController
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 43
+
+Fault:26-11-2020 5:24:35-Не верное имя файла для подключения - core/user/controller/TemplateController
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 43
+
+Fault:26-11-2020 5:24:35-Не верное имя файла для подключения - core/user/controller/TemplateController
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 43
+
+Fault:26-11-2020 5:24:35-Не верное имя файла для подключения - core/user/controller/TemplateController
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 43
+
+Fault:26-11-2020 5:24:35-Не верное имя файла для подключения - core/user/controller/ImagesController
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 43
+
+Fault:26-11-2020 5:24:35-Не верное имя файла для подключения - core/user/controller/TemplateController
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 43
+
+Fault:26-11-2020 5:24:47-Не верное имя файла для подключения - core/user/controller/CoreController
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 43
+
+Fault:26-11-2020 5:24:48-Не верное имя файла для подключения - core/user/controller/TemplateController
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 43
+
+Fault:26-11-2020 5:24:48-Не верное имя файла для подключения - core/user/controller/TemplateController
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 43
+
+Fault:26-11-2020 5:24:48-Не верное имя файла для подключения - core/user/controller/TemplateController
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 43
+
+Fault:26-11-2020 5:24:48-Не верное имя файла для подключения - core/user/controller/ImagesController
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 43
+
+Fault:26-11-2020 5:24:48-Не верное имя файла для подключения - core/user/controller/TemplateController
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 43
+
+Fault:26-11-2020 5:24:48-Не верное имя файла для подключения - core/user/controller/TemplateController
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 43
+
+Fault:26-11-2020 5:26:24-Не верное имя файла для подключения - core/user/controller/TemplateController
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 43
+
+Fault:26-11-2020 5:26:24-Не верное имя файла для подключения - core/user/controller/TemplateController
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 43
+
+Fault:26-11-2020 5:26:24-Не верное имя файла для подключения - core/user/controller/TemplateController
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 43
+
+Fault:26-11-2020 5:26:24-Не верное имя файла для подключения - core/user/controller/ImagesController
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 43
+
+Fault:26-11-2020 5:26:24-Не верное имя файла для подключения - core/user/controller/TemplateController
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 43
+
+Fault:26-11-2020 5:26:24-Не верное имя файла для подключения - core/user/controller/TemplateController
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 43
+
+Fault:26-11-2020 19:26:41-Не верное имя файла для подключения - core/user/controller/CoreController
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 43
+
+Fault:26-11-2020 19:26:41-Не верное имя файла для подключения - core/user/controller/ImagesController
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 43
+
+Fault:26-11-2020 19:26:41-Не верное имя файла для подключения - core/user/controller/CoreController
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 43
+
+Fault:26-11-2020 19:26:41-Не верное имя файла для подключения - core/user/controller/CoreController
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 43
+
+Fault:26-11-2020 19:26:41-Не верное имя файла для подключения - core/user/controller/CoreController
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 43
+
+Fault:26-11-2020 19:26:41-Не верное имя файла для подключения - core/user/controller/TemplateController
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 43
+
+Fault:26-11-2020 19:30:45-Не верное имя файла для подключения - core/user/controller/CoreController
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 43
+
+Fault:26-11-2020 19:30:45-Не верное имя файла для подключения - core/user/controller/CoreController
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 43
+
+Fault:26-11-2020 19:30:45-Не верное имя файла для подключения - core/user/controller/CoreController
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 43
+
+Fault:26-11-2020 19:34:03-Не верное имя файла для подключения - core/user/controller/CoreController
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 43
+
+Fault:26-11-2020 19:34:03-Не верное имя файла для подключения - core/user/controller/CoreController
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 43
+
+Fault:26-11-2020 19:34:04-Не верное имя файла для подключения - core/user/controller/CoreController
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 43
+
+Fault:26-11-2020 19:34:04-Не верное имя файла для подключения - core/user/controller/CoreController
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 43
+
+Fault:26-11-2020 19:34:04-Не верное имя файла для подключения - core/user/controller/ImagesController
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 43
+
+Fault:26-11-2020 19:34:04-Не верное имя файла для подключения - core/user/controller/TemplateController
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 43
+
+Fault:26-11-2020 19:36:49-Не верное имя файла для подключения - core/user/controller/CoreController
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 43
+
+Fault:26-11-2020 19:36:49-Не верное имя файла для подключения - core/user/controller/CoreController
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 43
+
+Fault:26-11-2020 19:36:49-Не верное имя файла для подключения - core/user/controller/CoreController
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 43
+
+Fault:26-11-2020 19:36:49-Не верное имя файла для подключения - core/user/controller/CoreController
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 43
+
+Fault:26-11-2020 19:38:09-Не верное имя файла для подключения - core/user/controller/CoreController
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 43
+
+Fault:26-11-2020 19:38:09-Не верное имя файла для подключения - core/user/controller/CoreController
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 43
+
+Fault:26-11-2020 19:38:09-Не верное имя файла для подключения - core/user/controller/CoreController
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 43
+
+Fault:26-11-2020 19:39:15-Не верное имя файла для подключения - core/user/controller/CoreController
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 43
+
+Fault:26-11-2020 19:39:15-Не верное имя файла для подключения - core/user/controller/CoreController
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 43
+
+Fault:26-11-2020 19:39:15-Не верное имя файла для подключения - core/user/controller/CoreController
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 43
+
+Fault:26-11-2020 20:05:08-Отсутствует шаблон - core/admin/view/show
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\controller\BaseController.php
+In line 125
+
+Fault:26-11-2020 23:06:08-Не верное имя файла для подключения - core/user/controller/CoreController
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 43
+
+Fault:26-11-2020 23:06:08-Не верное имя файла для подключения - core/user/controller/CoreController
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 43
+
+Fault:26-11-2020 23:06:08-Не верное имя файла для подключения - core/user/controller/CoreController
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 43
+
+Fault:26-11-2020 23:06:11-Не верное имя файла для подключения - core/user/controller/CoreController
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 43
+
+Fault:26-11-2020 23:06:11-Не верное имя файла для подключения - core/user/controller/CoreController
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 43
+
+Fault:26-11-2020 23:06:11-Не верное имя файла для подключения - core/user/controller/CoreController
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 43
+
+Fault:26-11-2020 23:06:11-Не верное имя файла для подключения - core/user/controller/CoreController
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 43
+
+Fault:26-11-2020 23:06:25-Не верное имя файла для подключения - core/user/controller/CoreController
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 43
+
+Fault:26-11-2020 23:06:25-Не верное имя файла для подключения - core/user/controller/CoreController
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 43
+
+Fault:26-11-2020 23:06:25-Не верное имя файла для подключения - core/user/controller/CoreController
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 43
+
+Fault:26-11-2020 23:06:25-Не верное имя файла для подключения - core/user/controller/TemplateController
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 43
+
+Fault:26-11-2020 23:06:25-Не верное имя файла для подключения - core/user/controller/CoreController
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 43
+
+Fault:26-11-2020 23:06:25-Не верное имя файла для подключения - core/user/controller/ImagesController
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 43
+
+Fault:26-11-2020 23:08:33-Не верное имя файла для подключения - core/user/controller/CoreController
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 43
+
+Fault:26-11-2020 23:08:33-Не верное имя файла для подключения - core/user/controller/CoreController
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 43
+
+Fault:26-11-2020 23:08:33-Не верное имя файла для подключения - core/user/controller/CoreController
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 43
+
+Fault:26-11-2020 23:08:33-Не верное имя файла для подключения - core/user/controller/CoreController
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 43
+
+Fault:26-11-2020 23:08:33-Не верное имя файла для подключения - core/user/controller/TemplateController
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 43
+
+Fault:26-11-2020 23:08:33-Не верное имя файла для подключения - core/user/controller/ImagesController
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 43
+
+Fault:26-11-2020 23:18:15-Не верное имя файла для подключения - core/user/controller/CoreController
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 43
+
+Fault:26-11-2020 23:18:16-Не верное имя файла для подключения - core/user/controller/CoreController
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 43
+
+Fault:26-11-2020 23:18:16-Не верное имя файла для подключения - core/user/controller/CoreController
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 43
+
+Fault:26-11-2020 23:18:16-Не верное имя файла для подключения - core/user/controller/CoreController
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 43
+
+Fault:26-11-2020 23:18:16-Не верное имя файла для подключения - core/user/controller/ImagesController
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 43
+
+Fault:26-11-2020 23:18:16-Не верное имя файла для подключения - core/user/controller/TemplateController
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 43
+
+Fault:26-11-2020 23:18:23-Не верное имя файла для подключения - core/user/controller/CoreController
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 43
+
+Fault:26-11-2020 23:18:24-Не верное имя файла для подключения - core/user/controller/CoreController
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 43
+
+Fault:26-11-2020 23:18:24-Не верное имя файла для подключения - core/user/controller/CoreController
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 43
+
+Fault:26-11-2020 23:18:24-Не верное имя файла для подключения - core/user/controller/TemplateController
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 43
+
+Fault:26-11-2020 23:18:24-Не верное имя файла для подключения - core/user/controller/ImagesController
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 43
+
+Fault:26-11-2020 23:18:24-Не верное имя файла для подключения - core/user/controller/CoreController
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 43
+
+Fault:26-11-2020 23:19:57-Не верное имя файла для подключения - core/user/controller/CoreController
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 43
+
+Fault:26-11-2020 23:19:57-Не верное имя файла для подключения - core/user/controller/CoreController
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 43
+
+Fault:26-11-2020 23:19:57-Не верное имя файла для подключения - core/user/controller/CoreController
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 43
+
+Fault:26-11-2020 23:19:58-Не верное имя файла для подключения - core/user/controller/CoreController
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 43
+
+Fault:26-11-2020 23:19:58-Не верное имя файла для подключения - core/user/controller/TemplateController
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 43
+
+Fault:26-11-2020 23:19:58-Не верное имя файла для подключения - core/user/controller/ImagesController
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 43
+
+Fault:27-11-2020 0:04:11-Не верное имя файла для подключения - core/user/controller/CoreController
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 43
+
+Fault:27-11-2020 0:04:11-Не верное имя файла для подключения - core/user/controller/CoreController
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 43
+
+Fault:27-11-2020 0:04:11-Не верное имя файла для подключения - core/user/controller/CoreController
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 43
+
+Fault:27-11-2020 0:04:11-Не верное имя файла для подключения - core/user/controller/CoreController
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 43
+
+Fault:27-11-2020 0:22:27-Не верное имя файла для подключения - core/user/controller/CoreController
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 43
+
+Fault:27-11-2020 0:22:27-Не верное имя файла для подключения - core/user/controller/CoreController
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 43
+
+Fault:27-11-2020 0:22:27-Не верное имя файла для подключения - core/user/controller/CoreController
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 43
+
+Fault:27-11-2020 0:22:27-Не верное имя файла для подключения - core/user/controller/CoreController
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 43
+
+Fault:27-11-2020 0:22:36-Не верное имя файла для подключения - core/user/controller/CoreController
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 43
+
+Fault:27-11-2020 0:22:36-Не верное имя файла для подключения - core/user/controller/CoreController
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 43
+
+Fault:27-11-2020 0:22:37-Не верное имя файла для подключения - core/user/controller/CoreController
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 43
+
+Fault:27-11-2020 0:23:16-Не верное имя файла для подключения - core/user/controller/CoreController
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 43
+
+Fault:27-11-2020 0:23:16-Не верное имя файла для подключения - core/user/controller/TemplateController
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 43
+
+Fault:27-11-2020 0:23:16-Не верное имя файла для подключения - core/user/controller/CoreController
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 43
+
+Fault:27-11-2020 0:23:16-Не верное имя файла для подключения - core/user/controller/CoreController
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 43
+
+Fault:27-11-2020 0:23:17-Не верное имя файла для подключения - core/user/controller/CoreController
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 43
+
+Fault:27-11-2020 0:23:17-Не верное имя файла для подключения - core/user/controller/ImagesController
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 43
+
+Fault:27-11-2020 0:24:47-Не верное имя файла для подключения - core/user/controller/CoreController
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 43
+
+Fault:27-11-2020 0:24:47-Не верное имя файла для подключения - core/user/controller/CoreController
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 43
+
+Fault:27-11-2020 0:24:47-Не верное имя файла для подключения - core/user/controller/CoreController
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 43
+
+Fault:27-11-2020 0:49:19-Не верное имя файла для подключения - core/user/controller/CoreController
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 43
+
+Fault:27-11-2020 0:49:20-Не верное имя файла для подключения - core/user/controller/CoreController
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 43
+
+Fault:27-11-2020 0:49:20-Не верное имя файла для подключения - core/user/controller/CoreController
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 43
+
+Fault:27-11-2020 0:49:25-Не верное имя файла для подключения - core/user/controller/CoreController
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 43
+
+Fault:27-11-2020 0:49:25-Не верное имя файла для подключения - core/user/controller/CoreController
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 43
+
+Fault:27-11-2020 0:49:25-Не верное имя файла для подключения - core/user/controller/CoreController
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 43
+
+Fault:27-11-2020 0:49:25-Не верное имя файла для подключения - core/user/controller/CoreController
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 43
+
+Fault:27-11-2020 0:49:25-Не верное имя файла для подключения - core/user/controller/TemplateController
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 43
+
+Fault:27-11-2020 0:49:25-Не верное имя файла для подключения - core/user/controller/ImagesController
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 43
+
+Fault:27-11-2020 3:25:49-Не верное имя файла для подключения - core/user/controller/CoreController
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 43
+
+Fault:27-11-2020 3:25:49-Не верное имя файла для подключения - core/user/controller/CoreController
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 43
+
+Fault:27-11-2020 3:25:51-Не верное имя файла для подключения - core/user/controller/CoreController
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 43
+
+Fault:27-11-2020 3:25:52-Не верное имя файла для подключения - core/user/controller/TemplateController
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 43
+
+Fault:27-11-2020 3:25:53-Не верное имя файла для подключения - core/user/controller/CoreController
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 43
+
+Fault:27-11-2020 3:25:59-Не верное имя файла для подключения - core/user/controller/ImagesController
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 43
+
+Fault:27-11-2020 3:38:34-Отсутствует шаблон - core/admin/view/include/header
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\controller\BaseController.php
+In line 123
+
+Fault:27-11-2020 5:03:18-Не верное имя файла для подключения - core/user/controller/CoreController
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 43
+
+Fault:27-11-2020 5:03:18-Не верное имя файла для подключения - core/user/controller/CoreController
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 43
+
+Fault:27-11-2020 5:03:18-Не верное имя файла для подключения - core/user/controller/CoreController
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 43
+
+Fault:27-11-2020 5:03:19-Не верное имя файла для подключения - core/user/controller/ImagesController
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 43
+
+Fault:27-11-2020 5:03:19-Не верное имя файла для подключения - core/user/controller/CoreController
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 43
+
+Fault:27-11-2020 5:03:19-Не верное имя файла для подключения - core/user/controller/TemplateController
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 43
+
+Fault:27-11-2020 5:03:26-Не верное имя файла для подключения - core/user/controller/CoreController
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 43
+
+Fault:27-11-2020 5:03:26-Не верное имя файла для подключения - core/user/controller/CoreController
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 43
+
+Fault:27-11-2020 5:03:26-Не верное имя файла для подключения - core/user/controller/CoreController
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 43
+
+Fault:27-11-2020 5:03:26-Не верное имя файла для подключения - core/user/controller/CoreController
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 43
+
+Fault:27-11-2020 5:03:26-Не верное имя файла для подключения - core/user/controller/ImagesController
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 43
+
+Fault:27-11-2020 5:03:27-Не верное имя файла для подключения - core/user/controller/TemplateController
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 43
+
+Fault:27-11-2020 5:03:37-Не верное имя файла для подключения - core/user/controller/CoreController
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 43
+
+Fault:27-11-2020 5:03:37-Не верное имя файла для подключения - core/user/controller/CoreController
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 43
+
+Fault:27-11-2020 5:03:37-Не верное имя файла для подключения - core/user/controller/CoreController
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 43
+
+Fault:27-11-2020 5:03:37-Не верное имя файла для подключения - core/user/controller/CoreController
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 43
+
+Fault:27-11-2020 5:03:37-Не верное имя файла для подключения - core/user/controller/TemplateController
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 43
+
+Fault:27-11-2020 5:03:37-Не верное имя файла для подключения - core/user/controller/ImagesController
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 43
+
+Fault:27-11-2020 5:04:05-Не верное имя файла для подключения - core/user/controller/CoreController
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 43
+
+Fault:27-11-2020 5:04:05-Не верное имя файла для подключения - core/user/controller/CoreController
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 43
+
+Fault:27-11-2020 5:04:05-Не верное имя файла для подключения - core/user/controller/ImagesController
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 43
+
+Fault:27-11-2020 5:04:05-Не верное имя файла для подключения - core/user/controller/CoreController
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 43
+
+Fault:27-11-2020 5:04:05-Не верное имя файла для подключения - core/user/controller/CoreController
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 43
+
+Fault:27-11-2020 5:04:05-Не верное имя файла для подключения - core/user/controller/TemplateController
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 43
+
+Fault:27-11-2020 5:04:30-Не верное имя файла для подключения - core/user/controller/CoreController
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 43
+
+Fault:27-11-2020 5:04:30-Не верное имя файла для подключения - core/user/controller/CoreController
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 43
+
+Fault:27-11-2020 5:04:30-Не верное имя файла для подключения - core/user/controller/CoreController
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 43
+
+Fault:27-11-2020 5:04:31-Не верное имя файла для подключения - core/user/controller/CoreController
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 43
+
+Fault:27-11-2020 5:04:31-Не верное имя файла для подключения - core/user/controller/ImagesController
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 43
+
+Fault:27-11-2020 5:04:31-Не верное имя файла для подключения - core/user/controller/TemplateController
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 43
+
+Fault:27-11-2020 6:00:47-Не верное имя файла для подключения - core/user/controller/CoreController
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 43
+
+Fault:27-11-2020 6:00:47-Не верное имя файла для подключения - core/user/controller/CoreController
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 43
+
+Fault:27-11-2020 6:00:48-Не верное имя файла для подключения - core/user/controller/CoreController
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 43
+
+Fault:27-11-2020 6:00:48-Не верное имя файла для подключения - core/user/controller/CoreController
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 43
+
+Fault:27-11-2020 6:00:55-Не верное имя файла для подключения - core/user/controller/CoreController
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 43
+
+Fault:27-11-2020 6:00:55-Не верное имя файла для подключения - core/user/controller/CoreController
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 43
+
+Fault:27-11-2020 6:00:55-Не верное имя файла для подключения - core/user/controller/CoreController
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 43
+
+Fault:27-11-2020 6:00:55-Не верное имя файла для подключения - core/user/controller/CoreController
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 43
+
+Fault:27-11-2020 6:13:47-Не верное имя файла для подключения - core/user/controller/CoreController
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 43
+
+Fault:27-11-2020 6:13:47-Не верное имя файла для подключения - core/user/controller/CoreController
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 43
+
+Fault:27-11-2020 6:13:47-Не верное имя файла для подключения - core/user/controller/CoreController
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 43
+
+Fault:27-11-2020 6:13:47-Не верное имя файла для подключения - core/user/controller/CoreController
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 43
+
+Fault:27-11-2020 6:14:11-Не верное имя файла для подключения - core/user/controller/CoreController
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 43
+
+Fault:27-11-2020 6:14:11-Не верное имя файла для подключения - core/user/controller/CoreController
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 43
+
+Fault:27-11-2020 6:14:11-Не верное имя файла для подключения - core/user/controller/CoreController
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 43
+
+Fault:27-11-2020 6:14:11-Не верное имя файла для подключения - core/user/controller/CoreController
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 43
+
+Fault:27-11-2020 6:14:11-Не верное имя файла для подключения - core/user/controller/TemplateController
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 43
+
+Fault:27-11-2020 6:14:11-Не верное имя файла для подключения - core/user/controller/ImagesController
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 43
+
+Fault:27-11-2020 16:18:27-Не верное имя файла для подключения - core/user/controller/CoreController
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 43
+
+Fault:27-11-2020 16:18:27-Не верное имя файла для подключения - core/user/controller/CoreController
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 43
+
+Fault:27-11-2020 16:18:27-Не верное имя файла для подключения - core/user/controller/CoreController
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 43
+
+Fault:27-11-2020 16:18:27-Не верное имя файла для подключения - core/user/controller/CoreController
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 43
+
+Fault:27-11-2020 16:19:25-Не верное имя файла для подключения - core/user/controller/CoreController
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 43
+
+Fault:27-11-2020 16:19:25-Не верное имя файла для подключения - core/user/controller/CoreController
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 43
+
+Fault:27-11-2020 16:19:25-Не верное имя файла для подключения - core/user/controller/CoreController
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 43
+
+Fault:27-11-2020 16:21:04-Не верное имя файла для подключения - core/user/controller/CoreController
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 43
+
+Fault:27-11-2020 16:21:04-Не верное имя файла для подключения - core/user/controller/CoreController
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 43
+
+Fault:27-11-2020 16:21:04-Не верное имя файла для подключения - core/user/controller/CoreController
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 43
+
+Fault:27-11-2020 16:23:16-Не верное имя файла для подключения - core/user/controller/CoreController
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 43
+
+Fault:27-11-2020 16:23:16-Не верное имя файла для подключения - core/user/controller/CoreController
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 43
+
+Fault:27-11-2020 16:23:16-Не верное имя файла для подключения - core/user/controller/CoreController
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 43
+
+Fault:27-11-2020 16:26:26-Не верное имя файла для подключения - core/user/controller/CoreController
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 43
+
+Fault:27-11-2020 16:26:26-Не верное имя файла для подключения - core/user/controller/CoreController
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 43
+
+Fault:27-11-2020 16:26:27-Не верное имя файла для подключения - core/user/controller/CoreController
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 43
+
+Fault:27-11-2020 16:26:27-Не верное имя файла для подключения - core/user/controller/CoreController
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 43
+
+Fault:27-11-2020 16:26:28-Не верное имя файла для подключения - core/user/controller/CoreController
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 43
+
+Fault:27-11-2020 16:26:28-Не верное имя файла для подключения - core/user/controller/CoreController
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 43
+
+Fault:27-11-2020 16:26:28-Не верное имя файла для подключения - core/user/controller/CoreController
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 43
+
+Fault:27-11-2020 16:26:28-Не верное имя файла для подключения - core/user/controller/CoreController
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 43
+
+Fault:27-11-2020 16:27:09-Не верное имя файла для подключения - core/user/controller/CoreController
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 43
+
+Fault:27-11-2020 16:27:09-Не верное имя файла для подключения - core/user/controller/CoreController
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 43
+
+Fault:27-11-2020 16:27:09-Не верное имя файла для подключения - core/user/controller/CoreController
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 43
+
+Fault:27-11-2020 16:27:09-Не верное имя файла для подключения - core/user/controller/CoreController
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 43
+
+Fault:27-11-2020 16:27:13-Не верное имя файла для подключения - core/user/controller/CoreController
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 43
+
+Fault:27-11-2020 16:27:13-Не верное имя файла для подключения - core/user/controller/CoreController
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 43
+
+Fault:27-11-2020 16:27:13-Не верное имя файла для подключения - core/user/controller/CoreController
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 43
+
+Fault:27-11-2020 16:27:13-Не верное имя файла для подключения - core/user/controller/CoreController
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 43
+
+Fault:27-11-2020 16:28:27-Не верное имя файла для подключения - core/user/controller/CoreController
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 43
+
+Fault:27-11-2020 16:28:27-Не верное имя файла для подключения - core/user/controller/CoreController
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 43
+
+Fault:27-11-2020 16:28:27-Не верное имя файла для подключения - core/user/controller/CoreController
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 43
+
+Fault:27-11-2020 16:28:54-Не верное имя файла для подключения - core/user/controller/CoreController
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 43
+
+Fault:27-11-2020 16:28:54-Не верное имя файла для подключения - core/user/controller/CoreController
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 43
+
+Fault:27-11-2020 16:28:55-Не верное имя файла для подключения - core/user/controller/CoreController
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 43
+
+Fault:27-11-2020 16:30:08-Не верное имя файла для подключения - core/user/controller/CoreController
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 43
+
+Fault:27-11-2020 16:30:08-Не верное имя файла для подключения - core/user/controller/CoreController
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 43
+
+Fault:27-11-2020 16:30:09-Не верное имя файла для подключения - core/user/controller/CoreController
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 43
+
+Fault:27-11-2020 16:30:09-Не верное имя файла для подключения - core/user/controller/CoreController
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 43
+
+Fault:27-11-2020 16:30:13-Не верное имя файла для подключения - core/user/controller/CoreController
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 43
+
+Fault:27-11-2020 16:30:13-Не верное имя файла для подключения - core/user/controller/CoreController
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 43
+
+Fault:27-11-2020 16:30:14-Не верное имя файла для подключения - core/user/controller/CoreController
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 43
+
+Fault:27-11-2020 16:30:14-Не верное имя файла для подключения - core/user/controller/CoreController
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 43
+
+Fault:27-11-2020 16:37:04-Не верное имя файла для подключения - core/user/controller/TemplateController
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 43
+
+Fault:27-11-2020 16:37:04-Не верное имя файла для подключения - core/user/controller/ImagesController
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 43
+
+Fault:27-11-2020 16:37:26-Не верное имя файла для подключения - core/admin/controller/AddController
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 43
+
+Fault:27-11-2020 16:46:57-Не верное имя файла для подключения - core/user/controller/TemplateController
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 43
+
+Fault:27-11-2020 16:46:57-Не верное имя файла для подключения - core/user/controller/ImagesController
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 43
+
+Fault:29-11-2020 22:55:24-Отсутствует шаблон - core/admin/view/add
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\controller\BaseController.php
+In line 125
+
+Fault:30-11-2020 0:58:56-Отсутствует шаблон - core/admin/view/add
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\controller\BaseController.php
+In line 125
+
+Fault:02-12-2020 2:23:21-Не верное имя файла для подключения - core/user/controller/UserfilesController
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 43
+
+Fault:02-12-2020 2:23:22-Не верное имя файла для подключения - core/user/controller/UserfilesController
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 43
+
+Fault:02-12-2020 6:31:04-Не найден шаблон D:/OpenServerInstaller/OpenServer/domains/my.first.frame/public_html/core/admin/view/include/form_templatestext.php
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\admin\view\add.php
+In line 47
+
+Fault:07-12-2020 5:23:58-Не найден шаблон D:/OpenServerInstaller/OpenServer/domains/my.first.frame/public_html/core/admin/view/include/form_templates/keywords.php
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\admin\view\add.php
+In line 49
+
+Fault:17-01-2021 22:59:21-Не верное имя файла для подключения - core/user/controller/AddController
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 43
+
+Fault:12-03-2021 1:22:14-Не верное имя файла для подключения - core/user/controller/CoreController
+fileD:\programming\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 43
+
+Fault:12-03-2021 1:22:14-Не верное имя файла для подключения - core/user/controller/CoreController
+fileD:\programming\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 43
+
+Fault:21-03-2021 21:21:26-Не верное имя файла для подключения - core/admin/models/Model
+fileD:\programming\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 50
+
+Fault:21-03-2021 21:22:19-Не верное имя файла для подключения - core/admin/models/Model
+fileD:\programming\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 50
+
+Fault:21-03-2021 21:22:25-Не верное имя файла для подключения - core/admin/models/Model
+fileD:\programming\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 50
+
+Fault:25-03-2021 4:18:49-Не верное имя файла для подключения - core/admin/controller/GoodsController
+fileD:\programming\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 50
+
+Fault:02-04-2021 2:25:36-Не верное имя файла для подключения - core/user/controller/UserfilesController
+fileD:\programming\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 50
+
+Fault:02-04-2021 2:25:38-Не верное имя файла для подключения - core/user/controller/UserfilesController
+fileD:\programming\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 50
+
+Fault:02-04-2021 2:26:08-Не верное имя файла для подключения - core/user/controller/UserfilesController
+fileD:\programming\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 50
+
+Fault:02-04-2021 2:50:35-Не верное имя файла для подключения - core/user/controller/UserfilesController
+fileD:\programming\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 50
+
+Fault:02-04-2021 2:54:11-Не верное имя файла для подключения - core/user/controller/UserfilesController
+fileD:\programming\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 50
+
+Fault:02-04-2021 2:54:13-Не верное имя файла для подключения - core/user/controller/UserfilesController
+fileD:\programming\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 50
+
+Fault:02-04-2021 3:00:30-Не верное имя файла для подключения - core/user/controller/UserfilesController
+fileD:\programming\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 50
+
+Fault:02-04-2021 3:00:42-Не верное имя файла для подключения - core/user/controller/UserfilesController
+fileD:\programming\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 50
+
+Fault:02-04-2021 3:00:44-Не верное имя файла для подключения - core/user/controller/UserfilesController
+fileD:\programming\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 50
+
+Fault:02-04-2021 3:03:53-Не верное имя файла для подключения - core/user/controller/UserfilesController
+fileD:\programming\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 50
+
+Fault:02-04-2021 3:05:28-Не верное имя файла для подключения - core/user/controller/UserfilesController
+fileD:\programming\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 50
+
+Fault:02-04-2021 3:06:05-Не верное имя файла для подключения - core/user/controller/UserfilesController
+fileD:\programming\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 50
+
+Fault:02-04-2021 3:07:09-Не верное имя файла для подключения - core/user/controller/UserfilesController
+fileD:\programming\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 50
+
+Fault:02-04-2021 3:08:11-Не верное имя файла для подключения - core/user/controller/UserfilesController
+fileD:\programming\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 50
+
+Fault:02-04-2021 3:15:34-Не верное имя файла для подключения - core/user/controller/UserfilesController
+fileD:\programming\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 50
+
+Fault:02-04-2021 3:15:37-Не верное имя файла для подключения - core/user/controller/UserfilesController
+fileD:\programming\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 50
+
+Fault:02-04-2021 3:15:50-Не верное имя файла для подключения - core/user/controller/UserfilesController
+fileD:\programming\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 50
+
+Fault:02-04-2021 3:15:53-Не верное имя файла для подключения - core/user/controller/UserfilesController
+fileD:\programming\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 50
+
+Fault:02-04-2021 3:16:54-Не верное имя файла для подключения - core/user/controller/UserfilesController
+fileD:\programming\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 50
+
+Fault:02-04-2021 3:19:04-Не верное имя файла для подключения - core/user/controller/UserfilesController
+fileD:\programming\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 50
+
+Fault:02-04-2021 3:19:51-Не верное имя файла для подключения - core/user/controller/UserfilesController
+fileD:\programming\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 50
+
+Fault:02-04-2021 3:25:45-Не верное имя файла для подключения - core/user/controller/UserfilesController
+fileD:\programming\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 50
+
+Fault:02-04-2021 3:25:51-Не верное имя файла для подключения - core/user/controller/UserfilesController
+fileD:\programming\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 50
+
+Fault:02-04-2021 3:26:47-Не верное имя файла для подключения - core/user/controller/UserfilesController
+fileD:\programming\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 50
+
+Fault:02-04-2021 3:26:49-Не верное имя файла для подключения - core/user/controller/UserfilesController
+fileD:\programming\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 50
+
+Fault:02-04-2021 3:29:04-Не верное имя файла для подключения - core/user/controller/UserfilesController
+fileD:\programming\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 50
+
+Fault:02-04-2021 3:29:08-Не верное имя файла для подключения - core/user/controller/UserfilesController
+fileD:\programming\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 50
+
+Fault:02-04-2021 3:29:22-Не верное имя файла для подключения - core/user/controller/UserfilesController
+fileD:\programming\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 50
+
+Fault:02-04-2021 3:29:23-Не верное имя файла для подключения - core/user/controller/UserfilesController
+fileD:\programming\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 50
+
+Fault:02-04-2021 3:29:29-Не верное имя файла для подключения - core/user/controller/UserfilesController
+fileD:\programming\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 50
+
+Fault:04-04-2021 2:27:37-Не верное имя файла для подключения - core/user/controller/UserfilesController
+fileD:\programming\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 50
+
+Fault:04-04-2021 2:28:14-Не верное имя файла для подключения - core/user/controller/UserfilesController
+fileD:\programming\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 50
+
+Fault:04-04-2021 2:28:15-Не верное имя файла для подключения - core/user/controller/UserfilesController
+fileD:\programming\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 50
+
+Fault:04-04-2021 13:16:53-Не верное имя файла для подключения - core/user/controller/UserfilesController
+fileD:\programming\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 50
+
+Fault:04-04-2021 13:16:53-Не верное имя файла для подключения - core/user/controller/UserfilesController
+fileD:\programming\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 50
+
+Fault:04-04-2021 13:16:53-Не верное имя файла для подключения - core/user/controller/UserfilesController
+fileD:\programming\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 50
+
+Fault:04-04-2021 13:16:54-Не верное имя файла для подключения - core/user/controller/UserfilesController
+fileD:\programming\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 50
+
+Fault:04-04-2021 13:16:54-Не верное имя файла для подключения - core/user/controller/UserfilesController
+fileD:\programming\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 50
+
+Fault:04-04-2021 13:16:54-Не верное имя файла для подключения - core/user/controller/UserfilesController
+fileD:\programming\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 50
+
+Fault:04-04-2021 13:23:00-Не верное имя файла для подключения - core/user/controller/UserfilesController
+fileD:\programming\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 50
+
+Fault:04-04-2021 13:23:00-Не верное имя файла для подключения - core/user/controller/UserfilesController
+fileD:\programming\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 50
+
+Fault:04-04-2021 13:23:01-Не верное имя файла для подключения - core/user/controller/UserfilesController
+fileD:\programming\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 50
+
+Fault:04-04-2021 13:23:01-Не верное имя файла для подключения - core/user/controller/UserfilesController
+fileD:\programming\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 50
+
+Fault:04-04-2021 13:23:01-Не верное имя файла для подключения - core/user/controller/UserfilesController
+fileD:\programming\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 50
+
+Fault:04-04-2021 13:23:01-Не верное имя файла для подключения - core/user/controller/UserfilesController
+fileD:\programming\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 50
+
+Fault:04-04-2021 13:23:31-Не верное имя файла для подключения - core/user/controller/UserfilesController
+fileD:\programming\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 50
+
+Fault:04-04-2021 13:23:31-Не верное имя файла для подключения - core/user/controller/UserfilesController
+fileD:\programming\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 50
+
+Fault:04-04-2021 13:23:31-Не верное имя файла для подключения - core/user/controller/UserfilesController
+fileD:\programming\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 50
+
+Fault:04-04-2021 13:23:32-Не верное имя файла для подключения - core/user/controller/UserfilesController
+fileD:\programming\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 50
+
+Fault:04-04-2021 13:23:32-Не верное имя файла для подключения - core/user/controller/UserfilesController
+fileD:\programming\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 50
+
+Fault:04-04-2021 13:23:32-Не верное имя файла для подключения - core/user/controller/UserfilesController
+fileD:\programming\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 50
+
+Fault:04-04-2021 13:27:48-Не верное имя файла для подключения - core/user/controller/UserfilesController
+fileD:\programming\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 50
+
+Fault:04-04-2021 13:27:51-Не верное имя файла для подключения - core/user/controller/UserfilesController
+fileD:\programming\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 50
+
+Fault:04-04-2021 13:27:52-Не верное имя файла для подключения - core/user/controller/UserfilesController
+fileD:\programming\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 50
+
+Fault:04-04-2021 13:28:07-Не верное имя файла для подключения - core/user/controller/UserfilesController
+fileD:\programming\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 50
+
+Fault:04-04-2021 13:52:28-Не верное имя файла для подключения - core/user/controller/UserfilesController
+fileD:\programming\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 50
+
+Fault:04-04-2021 13:52:28-Не верное имя файла для подключения - core/user/controller/UserfilesController
+fileD:\programming\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 50
+
+Fault:04-04-2021 13:52:28-Не верное имя файла для подключения - core/user/controller/UserfilesController
+fileD:\programming\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 50
+
+Fault:04-04-2021 13:52:29-Не верное имя файла для подключения - core/user/controller/UserfilesController
+fileD:\programming\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 50
+
+Fault:04-04-2021 13:52:29-Не верное имя файла для подключения - core/user/controller/UserfilesController
+fileD:\programming\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 50
+
+Fault:04-04-2021 13:52:37-Не верное имя файла для подключения - core/user/controller/UserfilesController
+fileD:\programming\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 50
+
+Fault:04-04-2021 13:52:39-Не верное имя файла для подключения - core/user/controller/UserfilesController
+fileD:\programming\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 50
+
+Fault:04-04-2021 13:52:39-Не верное имя файла для подключения - core/user/controller/UserfilesController
+fileD:\programming\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 50
+
+Fault:04-04-2021 13:52:39-Не верное имя файла для подключения - core/user/controller/UserfilesController
+fileD:\programming\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 50
+
+Fault:04-04-2021 13:52:39-Не верное имя файла для подключения - core/user/controller/UserfilesController
+fileD:\programming\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 50
+
+Fault:04-04-2021 13:52:39-Не верное имя файла для подключения - core/user/controller/UserfilesController
+fileD:\programming\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 50
+
+Fault:04-04-2021 14:10:00-Не верное имя файла для подключения - core/user/controller/UserfilesController
+fileD:\programming\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 50
+
+Fault:04-04-2021 14:10:00-Не верное имя файла для подключения - core/user/controller/UserfilesController
+fileD:\programming\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 50
+
+Fault:04-04-2021 14:10:00-Не верное имя файла для подключения - core/user/controller/UserfilesController
+fileD:\programming\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 50
+
+Fault:04-04-2021 14:11:52-Не верное имя файла для подключения - core/user/controller/UserfilesController
+fileD:\programming\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 50
+
+Fault:04-04-2021 14:11:52-Не верное имя файла для подключения - core/user/controller/UserfilesController
+fileD:\programming\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 50
+
+Fault:04-04-2021 14:11:52-Не верное имя файла для подключения - core/user/controller/UserfilesController
+fileD:\programming\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 50
+
+Fault:04-04-2021 14:11:52-Не верное имя файла для подключения - core/user/controller/UserfilesController
+fileD:\programming\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 50
+
+Fault:04-04-2021 14:11:56-Не верное имя файла для подключения - core/user/controller/UserfilesController
+fileD:\programming\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 50
+
+Fault:04-04-2021 14:11:56-Не верное имя файла для подключения - core/user/controller/UserfilesController
+fileD:\programming\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 50
+
+Fault:04-04-2021 14:11:56-Не верное имя файла для подключения - core/user/controller/UserfilesController
+fileD:\programming\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 50
+
+Fault:09-05-2021 23:14:54-Не верное имя файла для подключения - core/user/controller/CoreController
+fileD:\programming\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 52
+
+Fault:09-05-2021 23:16:07-Не верное имя файла для подключения - core/user/controller/CoreController
+fileD:\programming\OpenServer\domains\my.first.frame\public_html\core\base\settings\internal_settings.php
+In line 52
+

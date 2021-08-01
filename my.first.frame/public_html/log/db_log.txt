@@ -1,0 +1,315 @@
+Fault:24-10-2020 14:58:13-Ошибка подключения к базе данных: 1045 Access denied for user 'root'@'localhost' (using password: NO)
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\models\BaseModel.php
+In line 23
+
+Fault:24-10-2020 16:00:45-Ошибка в SQL-запросе: SELECT * FROM articles1 - 1146 Table 'my.first.db.articles1' doesn't exist
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\models\BaseModel.php
+In line 42
+
+Fault:05-11-2020 17:41:25-Ошибка в SQL-запросе: SELECT teachers.Olga,teachers.Hello FROM teachers   ORDER BY   - 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\models\BaseModel.php
+In line 50
+
+Fault:05-11-2020 17:47:24-Ошибка в SQL-запросе: INSERT INTO teachers (name,content,gallery_img,img) VALUES ('Olga','Hello','[\"red\'\'.img\",\"blue.img\",\"black.img\"]','main_img.img') - 0 
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\models\BaseModel.php
+In line 50
+
+Fault:07-11-2020 14:27:49-Ошибка в SQL-запросе: INSERT INTO teachers (name,gallery_img,img) VALUES ('Masha','[\"red.img\"]','[\"main_img.img\"]') - 0 
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\models\BaseModel.php
+In line 50
+
+Fault:07-11-2020 14:58:17-Ошибка в SQL-запросе: INSERT INTO teachers (name,gallery_img,img) VALUES ('Masha','[\"red.img\"]','main_img.img') - 0 
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\models\BaseModel.php
+In line 50
+
+Fault:07-11-2020 15:38:20-Ошибка в SQL-запросе: SHOW COLUMNS FROM teachers - 0 
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\models\BaseModel.php
+In line 50
+
+Fault:07-11-2020 15:42:08-Ошибка в SQL-запросе: SHOW COLUMNS FROM teachers - 0 
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\models\BaseModel.php
+In line 50
+
+Fault:07-11-2020 17:28:41-Ошибка в SQL-запросе: SHOW COLUMNS FROM teachers - 0 
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\models\BaseModel.php
+In line 50
+
+Fault:07-11-2020 17:32:13-Ошибка в SQL-запросе: UPDATE teachers SET name='Kristi' WHERE id = '5'  - 0 
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\models\BaseModel.php
+In line 50
+
+Fault:07-11-2020 20:56:22-Ошибка подключения к базе данных: 1049 Unknown database 'my.first.db'
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\models\BaseModel.php
+In line 23
+
+Fault:07-11-2020 20:59:16-Ошибка в SQL-запросе: INSERT INTO teachers (name,gallery_img,img) VALUES ('Kristi','[\"red.img\",\"blue.img\"]','main_img.img') - 0 
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\models\BaseModel.php
+In line 50
+
+Fault:19-11-2020 17:56:10-Ошибка в SQL-запросе: SELECT teachers.id as id,teachers.name,teachers.img,teachers.,teachers.parent_id FROM teachers   ORDER BY teachers.parent_id ASC, teachers.menu_position ASC,   - 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'teachers.parent_id FROM teachers   ORDER BY teachers.parent_id ASC, teachers.men' at line 1
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\models\BaseModel.php
+In line 54
+
+Fault:19-11-2020 18:44:39-Ошибка в SQL-запросе: SHOW COLUMNS FROM teachers - 2006 MySQL server has gone away
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\models\BaseModel.php
+In line 54
+
+Fault:19-11-2020 19:32:00-Ошибка в SQL-запросе: SELECT teachers.id as id,teachers.name,teachers.img,teachers.content,teachers.parent_id FROM teachers   ORDER BY teachers.parent_id ASC, teachers.menu_position ASC,   - 2006 MySQL server has gone away
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\models\BaseModel.php
+In line 54
+
+Fault:19-11-2020 19:39:12-Ошибка в SQL-запросе: SELECT teachers.id as id,teachers.name,teachers.img,teachers.parent_id FROM teachers   ORDER BY teachers.parent_id ASC, teachers.menu_position ASC,   - 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\models\BaseModel.php
+In line 54
+
+Fault:20-11-2020 2:10:18-Ошибка в SQL-запросе: SELECT teachers.id as id,teachers.name,teachers.img,teachers.content,teachers.parent_id FROM teachers   ORDER BY teachers.parent_id ASC, teachers.menu_position ASC,   - 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\models\BaseModel.php
+In line 54
+
+Fault:21-11-2020 23:16:40-Ошибка в SQL-запросе: SELECT teachers.id as id,teachers.name,teachers.img,teachers.content,teachers.parent_id FROM teachers   ORDER BY teachers.parent_id ASC, teachers.menu_position ASC  - 1054 Unknown column 'teachers.content' in 'field list'
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\models\BaseModel.php
+In line 54
+
+Fault:21-11-2020 23:18:37-Ошибка в SQL-запросе: SELECT teachers.id as id,teachers.name,teachers.img,teachers.content,teachers.parent_id FROM teachers   ORDER BY teachers.parent_id ASC, teachers.menu_position ASC  - 1054 Unknown column 'teachers.content' in 'field list'
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\models\BaseModel.php
+In line 54
+
+Fault:21-11-2020 23:19:32-Ошибка в SQL-запросе: SELECT teachers.id as id,teachers.name,teachers.img,teachers.content,teachers.parent_id FROM teachers   ORDER BY teachers.parent_id ASC, teachers.menu_position ASC  - 1054 Unknown column 'teachers.content' in 'field list'
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\models\BaseModel.php
+In line 54
+
+Fault:21-11-2020 23:22:36-Ошибка в SQL-запросе: SELECT teachers.id as id,teachers.name,teachers.img,teachers.content,teachers.parent_id FROM teachers   ORDER BY teachers.parent_id ASC, teachers.menu_position ASC  - 1054 Unknown column 'teachers.content' in 'field list'
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\models\BaseModel.php
+In line 54
+
+Fault:29-11-2020 21:40:03-Ошибка в SQL-запросе: SELECT COLUMN_NAME, REFERENCED_TABLE_NAME, REFERENCED_COLUMN_NAME FROM 
+                    information_sschema.KEY_COLUMN_USAGE WHERE TABLE_SCHEMA = 'teachers' 
+                        AND TABLE_NAME = 'test.db.frame' AND CONSTRAINT_NAME <> 'PRIMERY' AND  
+                            REFERENCED_TABLE_NAME is not null  - 1146 Table 'information_sschema.key_column_usage' doesn't exist
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\models\BaseModel.php
+In line 50
+
+Fault:29-11-2020 22:24:42-Ошибка в SQL-запросе: SELECT articles.id as id FROM articles   ORDER BY  - 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\models\BaseModel.php
+In line 50
+
+Fault:29-11-2020 22:27:16-Ошибка в SQL-запросе: SELECT articles.id as id FROM articles   ORDER BY  - 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\models\BaseModel.php
+In line 50
+
+Fault:29-11-2020 22:31:46-Ошибка в SQL-запросе: SELECT articles.id as id,articles.name FROM articles   ORDER BY  - 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\models\BaseModel.php
+In line 50
+
+Fault:29-11-2020 22:58:29-Ошибка в SQL-запросе: SELECT articles.id as id,articles.name,articles.content,articles.parent_id FROM articles   ORDER BY articles.ASC ASC  - 1054 Unknown column 'articles.content' in 'field list'
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\models\BaseModel.php
+In line 50
+
+Fault:29-11-2020 22:58:34-Ошибка в SQL-запросе: SELECT articles.id as id,articles.name,articles.content,articles.parent_id FROM articles   ORDER BY articles.ASC ASC  - 1054 Unknown column 'articles.content' in 'field list'
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\models\BaseModel.php
+In line 50
+
+Fault:29-11-2020 22:59:09-Ошибка в SQL-запросе: SELECT articles.id as id,articles.name FROM articles   ORDER BY articles.ASC ASC  - 1054 Unknown column 'articles.ASC' in 'order clause'
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\models\BaseModel.php
+In line 50
+
+Fault:29-11-2020 23:27:52-Ошибка в SQL-запросе: SELECT articles.id as id,articles.name FROM articles   ORDER BY  - 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\models\BaseModel.php
+In line 50
+
+Fault:01-12-2020 5:35:01-Ошибка в SQL-запросе: SHOW COLUMNS FROM teachers - 2006 MySQL server has gone away
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\models\BaseModel.php
+In line 50
+
+Fault:01-12-2020 5:35:57-Ошибка в SQL-запросе: SELECT COLUMN_NAME, REFERENCED_TABLE_NAME, REFERENCED_COLUMN_NAME FROM 
+                    information_schema.KEY_COLUMN_USAGE WHERE TABLE_SCHEMA = 'test.db.frame' 
+                        AND TABLE_NAME = 'teachers' AND CONSTRAINT_NAME <> 'PRIMERY' AND  
+                            REFERENCED_TABLE_NAME is not null AND COLUMN_NAME = parent_id LIMIT 1 - 1054 Unknown column 'parent_id' in 'where clause'
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\models\BaseModel.php
+In line 50
+
+Fault:01-12-2020 5:37:22-Ошибка в SQL-запросе: SELECT COLUMN_NAME, REFERENCED_TABLE_NAME, REFERENCED_COLUMN_NAME FROM 
+                    information_schema.KEY_COLUMN_USAGE WHERE TABLE_SCHEMA = 'test.db.frame' 
+                        AND TABLE_NAME = 'teachers' AND CONSTRAINT_NAME <> 'PRIMERY' AND  
+                            REFERENCED_TABLE_NAME is not null AND COLUMN_NAME = parent_id LIMIT 1 - 1054 Unknown column 'parent_id' in 'where clause'
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\models\BaseModel.php
+In line 50
+
+Fault:01-12-2020 5:37:43-Ошибка в SQL-запросе: SELECT COLUMN_NAME, REFERENCED_TABLE_NAME, REFERENCED_COLUMN_NAME FROM 
+                    information_schema.KEY_COLUMN_USAGE WHERE TABLE_SCHEMA = 'test.db.frame' 
+                        AND TABLE_NAME = 'teachers' AND CONSTRAINT_NAME <> 'PRIMERY' AND  
+                            REFERENCED_TABLE_NAME is not null AND COLUMN_NAME = parent_id LIMIT 1 - 1054 Unknown column 'parent_id' in 'where clause'
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\models\BaseModel.php
+In line 50
+
+Fault:01-12-2020 21:22:33-Ошибка в SQL-запросе: INSERT INTO teachers img) VALUES ('Lena','2.img'),('Vika','3.img') - 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'img) VALUES ('Lena','2.img'),('Vika','3.img')' at line 1
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\models\BaseModel.php
+In line 50
+
+Fault:01-12-2020 21:23:16-Ошибка в SQL-запросе: INSERT INTO teachers img) VALUES ('Lena','2.img'),('Vika','3.img') - 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'img) VALUES ('Lena','2.img'),('Vika','3.img')' at line 1
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\models\BaseModel.php
+In line 50
+
+Fault:06-12-2020 19:16:48-Ошибка в SQL-запросе: SHOW COLUMNS FROM teachers - 2006 MySQL server has gone away
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\models\BaseModel.php
+In line 50
+
+Fault:08-12-2020 6:38:43-Ошибка в SQL-запросе: INSERT INTO teachers alias) VALUES ('Финал','2','1','афцацфафцафупфуп','NOW()','NOW()','teachers_111') - 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'alias) VALUES ('Финал','2','1','афцацфафцафупфуп','NOW()','' at line 1
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\models\BaseModel.php
+In line 50
+
+Fault:08-12-2020 7:07:02-Ошибка в SQL-запросе: INSERT INTO teachers (name,menu_position,visible,keywords,date,datetime,alias) VALUES ('финал','2','1','ыупыупыупуы','NOW()','NOW()','teachers_111') - 1292 Incorrect date value: 'NOW()' for column 'date' at row 1
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\models\BaseModel.php
+In line 50
+
+Fault:08-12-2020 7:10:54-Ошибка в SQL-запросе: INSERT INTO teachers (name,menu_position,visible,keywords,content,date,datetime,alias) VALUES ('финал','2','1','цфаупфкпфцкуп','уцпфцупфцупцуп','NOW()','NOW()','teachers_111') - 1292 Incorrect date value: 'NOW()' for column 'date' at row 1
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\models\BaseModel.php
+In line 50
+
+Fault:08-12-2020 7:21:42-Ошибка в SQL-запросе: INSERT INTO teachers (name,menu_position,visible,keywords,content,date,datetime,alias) VALUES ('финал','1','1','упауфауафа','афцацафца','NOW()','NOW()','teachers_111') - 1292 Incorrect date value: 'NOW()' for column 'date' at row 1
+fileD:\OpenServerInstaller\OpenServer\domains\my.first.frame\public_html\core\base\models\BaseModel.php
+In line 50
+
+Fault:05-03-2021 22:10:46-Ошибка подключения к базе данных: 2002 ����������� �� �����������, �.�. �������� ��������� ������ ������ �� �����������.
+
+fileD:\programming\OpenServer\domains\my.first.frame\public_html\core\base\models\BaseModel.php
+In line 19
+
+Fault:05-03-2021 22:24:48-Ошибка в SQL-запросе: SHOW COLUMNS FROM teachers - 1146 Table 'test.db.frame.teachers' doesn't exist
+fileD:\programming\OpenServer\domains\my.first.frame\public_html\core\base\models\BaseModel.php
+In line 50
+
+Fault:05-03-2021 22:26:45-Ошибка в SQL-запросе: SHOW COLUMNS FROM teachers - 1146 Table 'test.db.frame.teachers' doesn't exist
+fileD:\programming\OpenServer\domains\my.first.frame\public_html\core\base\models\BaseModel.php
+In line 50
+
+Fault:05-03-2021 22:26:47-Ошибка в SQL-запросе: SHOW COLUMNS FROM teachers - 1146 Table 'test.db.frame.teachers' doesn't exist
+fileD:\programming\OpenServer\domains\my.first.frame\public_html\core\base\models\BaseModel.php
+In line 50
+
+Fault:10-03-2021 1:59:49-Ошибка в SQL-запросе: CREATE TABLE parsing_data (all_links text, temp_link text) - 2006 MySQL server has gone away
+fileD:\programming\OpenServer\domains\my.first.frame\public_html\core\base\models\BaseModel.php
+In line 50
+
+Fault:10-03-2021 21:24:20-Ошибка в SQL-запросе: UPDATE parsing_data SET temp_links='',all_links=''  - 1054 Unknown column 'temp_links' in 'field list'
+fileD:\programming\OpenServer\domains\my.first.frame\public_html\core\base\models\BaseModel.php
+In line 50
+
+Fault:11-03-2021 15:18:07-Ошибка в SQL-запросе: SHOW COLUMNS FROM parsing_data - 2006 MySQL server has gone away
+fileD:\programming\OpenServer\domains\my.first.frame\public_html\core\base\models\BaseModel.php
+In line 50
+
+Fault:22-03-2021 2:15:36-Ошибка в SQL-запросе: SHOW COLUMNS FROM 1 - 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '1' at line 1
+fileD:\programming\OpenServer\domains\my.first.frame\public_html\core\base\models\BaseModel.php
+In line 50
+
+Fault:22-03-2021 4:27:49-Ошибка в SQL-запросе: SELECT teachers.*,stud_teach.students as TABLEstud_teachTABLE_students,stud_teach.teachers as TABLEstud_teachTABLE_teachers,stud_teach.multi_id_row as TABLEstud_teachTABLE_multi_id_row,students.name as student_name,students.id as TABLEstudentsTABLE_id FROM teachers LEFT JOIN stud_teach ON teachers.id=stud_teach.teachers LEFT JOIN students ON stud_teach.students=students.id WHERE teachers.id IN ('13','14')    - 1054 Unknown column 'stud_teach.multi_id_row' in 'field list'
+fileD:\programming\OpenServer\domains\my.first.frame\public_html\core\base\models\BaseModel.php
+In line 50
+
+Fault:22-03-2021 4:30:11-Ошибка в SQL-запросе: SELECT teachers.*,stud_teach.students as TABLEstud_teachTABLE_students,stud_teach.teachers as TABLEstud_teachTABLE_teachers,stud_teach.multi_id_row as TABLEstud_teachTABLE_multi_id_row,students.name as student_name,students.id as TABLEstudentsTABLE_id FROM teachers LEFT JOIN stud_teach ON teachers.id=stud_teach.teachers LEFT JOIN students ON stud_teach.students=students.id WHERE teachers.id IN ('13','14')    - 1054 Unknown column 'stud_teach.multi_id_row' in 'field list'
+fileD:\programming\OpenServer\domains\my.first.frame\public_html\core\base\models\BaseModel.php
+In line 50
+
+Fault:22-03-2021 4:36:48-Ошибка в SQL-запросе: SHOW COLUMNS FROM stud_teach - 2006 MySQL server has gone away
+fileD:\programming\OpenServer\domains\my.first.frame\public_html\core\base\models\BaseModel.php
+In line 50
+
+Fault:22-03-2021 4:37:10-Ошибка в SQL-запросе: SELECT teachers.*,stud_teach.students as TABLEstud_teachTABLE_students,stud_teach.teachers as TABLEstud_teachTABLE_teachers,stud_teach.multi_id_row as TABLEstud_teachTABLE_multi_id_row,students.name as student_name,students.id as TABLEstudentsTABLE_id FROM teachers LEFT JOIN stud_teach ON teachers.id=stud_teach.teachers LEFT JOIN students ON stud_teach.students=students.id WHERE teachers.id IN ('13','14')    - 1054 Unknown column 'stud_teach.multi_id_row' in 'field list'
+fileD:\programming\OpenServer\domains\my.first.frame\public_html\core\base\models\BaseModel.php
+In line 50
+
+Fault:22-03-2021 5:05:30-Ошибка в SQL-запросе: SELECT teachers.*,stud_teach.students as TABLEstud_teachTABLE_students,stud_teach.teachers as TABLEstud_teachTABLE_teachers,students.name as student_name as TABLEstudentsTABLE_name as student_name,students.id as TABLEstudentsTABLE_id FROM teachers LEFT JOIN stud_teach ON teachers.id=stud_teach.teachers LEFT JOIN students ON stud_teach.students=students.id WHERE teachers.id IN ('13','14')    - 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'as TABLEstudentsTABLE_name as student_name,students.id as TABLEstudentsTABLE_id ' at line 1
+fileD:\programming\OpenServer\domains\my.first.frame\public_html\core\base\models\BaseModel.php
+In line 50
+
+Fault:22-03-2021 23:47:40-Ошибка в SQL-запросе: SHOW COLUMNS FROM filers - 1146 Table 'test.db.frame.filers' doesn't exist
+fileD:\programming\OpenServer\domains\my.first.frame\public_html\core\base\models\BaseModel.php
+In line 50
+
+Fault:23-03-2021 19:22:21-Ошибка в SQL-запросе: SELECT goods.*,goods_filters.students as TABLEgoods_filtersTABLE_students,goods_filters.teachers as TABLEgoods_filtersTABLE_teachers,f.name as TABLEfTABLE_student_name,f.id as TABLEfTABLE_id,filters.id as TABLEfiltersTABLE_id,filters.name as TABLEfiltersTABLE_name,filters.text as TABLEfiltersTABLE_text,filters.parent_id as TABLEfiltersTABLE_parent_id FROM goods LEFT JOIN goods_filters ON goods.id=goods_filters.teachers LEFT JOIN filters f ON goods_filters.students=f.id LEFT JOIN filters ON f.parent_id=filters.id WHERE goods.id IN ('13','14')  ORDER BY goods.RAND() ASC  - 1305 FUNCTION goods.RAND does not exist
+fileD:\programming\OpenServer\domains\my.first.frame\public_html\core\base\models\BaseModel.php
+In line 50
+
+Fault:23-03-2021 19:29:54-Ошибка в SQL-запросе: SELECT goods.*,goods_filters.students as TABLEgoods_filtersTABLE_students,goods_filters.teachers as TABLEgoods_filtersTABLE_teachers,f.name as TABLEfTABLE_student_name,f.id as TABLEfTABLE_id,filters.id as TABLEfiltersTABLE_id,filters.name as TABLEfiltersTABLE_name,filters.text as TABLEfiltersTABLE_text,filters.parent_id as TABLEfiltersTABLE_parent_id FROM goods LEFT JOIN goods_filters ON goods.id=goods_filters.teachers LEFT JOIN filters f ON goods_filters.students=f.id LEFT JOIN filters ON f.parent_id=filters.id WHERE goods.id IN ('13','14')  ORDER BY goods.RAND() ASC  - 1305 FUNCTION goods.RAND does not exist
+fileD:\programming\OpenServer\domains\my.first.frame\public_html\core\base\models\BaseModel.php
+In line 50
+
+Fault:25-03-2021 22:11:36-Ошибка в SQL-запросе: SELECT COLUMN_NAME, REFERENCED_TABLE_NAME, REFERENCED_COLUMN_NAME FROM 
+                    information_schema.KEY_COLUMN_USAGE WHERE TABLE_SCHEMA = 'test.db.frame' 
+                        AND TABLE_NAME = 'filters' AND CONSTRAINT_NAME <> 'PRIMERY' AND  
+                            REFERENCED_TABLE_NAME is not null  - 2006 MySQL server has gone away
+fileD:\programming\OpenServer\domains\my.first.frame\public_html\core\base\models\BaseModel.php
+In line 50
+
+Fault:25-03-2021 23:57:25-Ошибка в SQL-запросе: SELECT COLUMN_NAME, REFERENCED_TABLE_NAME, REFERENCED_COLUMN_NAME FROM 
+                    information_schema.KEY_COLUMN_USAGE WHERE TABLE_SCHEMA = 'test.db.frame' 
+                        AND TABLE_NAME = 'filters' AND CONSTRAINT_NAME <> 'PRIMERY' AND  
+                            REFERENCED_TABLE_NAME is not null  - 2006 MySQL server has gone away
+fileD:\programming\OpenServer\domains\my.first.frame\public_html\core\base\models\BaseModel.php
+In line 50
+
+Fault:28-03-2021 17:20:51-Ошибка в SQL-запросе: INSERT INTO goods (name,menu_position,visible,parent_id,keywords,filters,content) VALUES ('test2','1','1','13','','','') - 1366 Incorrect integer value: '' for column 'filters' at row 1
+fileD:\programming\OpenServer\domains\my.first.frame\public_html\core\base\models\BaseModel.php
+In line 50
+
+Fault:30-03-2021 1:53:51-Ошибка в SQL-запросе: SELECT goods.COUNT(*) as count FROM goods  WHERE goods.parent_id = '20'    - 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '*) as count FROM goods  WHERE goods.parent_id = '20'' at line 1
+fileD:\programming\OpenServer\domains\my.first.frame\public_html\core\base\models\BaseModel.php
+In line 50
+
+Fault:30-03-2021 1:56:33-Ошибка в SQL-запросе: SELECT goods.COUNT(*) as count FROM goods  WHERE goods.parent_id = '20'    - 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '*) as count FROM goods  WHERE goods.parent_id = '20'' at line 1
+fileD:\programming\OpenServer\domains\my.first.frame\public_html\core\base\models\BaseModel.php
+In line 50
+
+Fault:30-03-2021 2:00:57-Ошибка в SQL-запросе: SELECT goods.COUNT(*) as count FROM goods  WHERE goods.parent_id = '20'    - 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '*) as count FROM goods  WHERE goods.parent_id = '20'' at line 1
+fileD:\programming\OpenServer\domains\my.first.frame\public_html\core\base\models\BaseModel.php
+In line 50
+
+Fault:02-04-2021 1:40:15-Ошибка в SQL-запросе: INSERT INTO goods img) VALUES ('good2','2','1','vaefqfeq','','[\"snimok-ekrana-5.png\"]','[\"snimok-ekrana-8.png\"]') - 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'img) VALUES ('good2','2','1','vaefqfeq','','[\"snimok-ekrana-5.png\"]','[\"snimo' at line 1
+fileD:\programming\OpenServer\domains\my.first.frame\public_html\core\base\models\BaseModel.php
+In line 50
+
+Fault:02-04-2021 1:43:36-Ошибка в SQL-запросе: INSERT INTO goods img) VALUES ('good2','2','1','vaefqfeq','','[\"snimok-ekrana-5_8cb38bcc.png\"]','[\"snimok-ekrana-8_8cb38bcc.png\"]') - 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'img) VALUES ('good2','2','1','vaefqfeq','','[\"snimok-ekrana-5_8cb38bcc.png\"]',' at line 1
+fileD:\programming\OpenServer\domains\my.first.frame\public_html\core\base\models\BaseModel.php
+In line 50
+
+Fault:02-04-2021 1:52:31-Ошибка в SQL-запросе: INSERT INTO goods img) VALUES ('good2','2','1','fefqefq','','[\"snimok-ekrana-3.png\"]','[\"snimok-ekrana-8_44fa635e.png\"]') - 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'img) VALUES ('good2','2','1','fefqefq','','[\"snimok-ekrana-3.png\"]','[\"snimok' at line 1
+fileD:\programming\OpenServer\domains\my.first.frame\public_html\core\base\models\BaseModel.php
+In line 50
+
+Fault:02-04-2021 1:54:46-Ошибка в SQL-запросе: INSERT INTO goods img) VALUES ('good2','2','1','fefqefq','','[\"snimok-ekrana-3_2e6dc75e.png\"]','[\"snimok-ekrana-8_0aa793b6.png\"]') - 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'img) VALUES ('good2','2','1','fefqefq','','[\"snimok-ekrana-3_2e6dc75e.png\"]','' at line 1
+fileD:\programming\OpenServer\domains\my.first.frame\public_html\core\base\models\BaseModel.php
+In line 50
+
+Fault:02-04-2021 1:55:53-Ошибка в SQL-запросе: INSERT INTO goods img) VALUES ('good2','2','1','fefqefq','','[\"snimok-ekrana-3_f8702919.png\"]','[\"snimok-ekrana-8_31109e25.png\"]') - 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'img) VALUES ('good2','2','1','fefqefq','','[\"snimok-ekrana-3_f8702919.png\"]','' at line 1
+fileD:\programming\OpenServer\domains\my.first.frame\public_html\core\base\models\BaseModel.php
+In line 50
+
+Fault:02-04-2021 1:56:01-Ошибка в SQL-запросе: INSERT INTO goods img) VALUES ('good2','2','1','fefqefq','','[\"snimok-ekrana-3_7cf8a367.png\"]','[\"snimok-ekrana-8_c47b90c3.png\"]') - 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'img) VALUES ('good2','2','1','fefqefq','','[\"snimok-ekrana-3_7cf8a367.png\"]','' at line 1
+fileD:\programming\OpenServer\domains\my.first.frame\public_html\core\base\models\BaseModel.php
+In line 50
+
+Fault:02-04-2021 2:23:48-Ошибка в SQL-запросе: INSERT INTO goods content,gallery_img,img) VALUES ('good3','5','1','efseaf','','[\"snimok-ekrana-4_3c9abeb5.png\"]','[\"snimok-ekrana-8_36e316ca.png\"]') - 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'content,gallery_img,img) VALUES ('good3','5','1','efseaf','','[\"snimok-ekrana-4' at line 1
+fileD:\programming\OpenServer\domains\my.first.frame\public_html\core\base\models\BaseModel.php
+In line 50
+
+Fault:04-04-2021 14:45:51-Ошибка в SQL-запросе: SELECT goods.gallery_img,goods.img FROM goods  WHERE goods.id = '25'    - 2006 MySQL server has gone away
+fileD:\programming\OpenServer\domains\my.first.frame\public_html\core\base\models\BaseModel.php
+In line 50
+
+Fault:04-04-2021 22:07:17-Ошибка в SQL-запросе: SELECT COUNT(*) as count FROM goods     - 2006 MySQL server has gone away
+fileD:\programming\OpenServer\domains\my.first.frame\public_html\core\base\models\BaseModel.php
+In line 50
+
+Fault:10-04-2021 16:18:54-Ошибка в SQL-запросе: SHOW COLUMNS FROM goods - 2006 MySQL server has gone away
+fileD:\programming\OpenServer\domains\my.first.frame\public_html\core\base\models\BaseModel.php
+In line 50
+
+Fault:28-04-2021 1:57:05-Ошибка в SQL-запросе: SHOW COLUMNS FROM goods - 2006 MySQL server has gone away
+fileD:\programming\OpenServer\domains\my.first.frame\public_html\core\base\models\BaseModel.php
+In line 50
+
+Fault:28-04-2021 2:39:52-Ошибка в SQL-запросе: SHOW COLUMNS FROM goods - 2006 MySQL server has gone away
+fileD:\programming\OpenServer\domains\my.first.frame\public_html\core\base\models\BaseModel.php
+In line 50
+

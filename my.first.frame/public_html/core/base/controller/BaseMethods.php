@@ -1,0 +1,93 @@
+<?php
+
+
+namespace core\base\controller;
+
+
+trait BaseMethods
+{
+    // метод для очистки переменной с занесенным строковым значением
+    protected function clearStr($str)
+    {
+        if(is_array($str))
+        {
+            foreach ($str as $key => $item) $str[$key] = $this->clearStr($item);
+            return $str;
+        }else{
+            /*strip_tags — удаляет теги HTML и PHP из строки
+                  1 аргумент - строка из которой надо удалить эти самые теги
+                  2 аргумент - теги которые надо разрешить
+                  Пример синтаксиса: strip_tags($item, "<p><a>" или с 7.4.0 ["p","a"])*/
+            return trim(strip_tags($str));
+        }
+    }
+
+        // метод для очистки переменной с занесенным цифровым значением
+        protected function clearNum ($num)
+    {
+        /*Пример:
+          a) $num = "1" =====> $num == 1(int)
+          b) $num = "1.45" =====> $num == 1.45(float)
+          c) $num = "str" =====> $num == 0(false) */
+        return (!empty($num) && preg_match('/\d/', $num)) ?
+            preg_replace('/[^\d.]/', '', $num) * 1 : 0;
+    }
+
+    protected function isPost()
+    {
+        return $_SERVER["REQUEST_METHOD"] === 'POST';
+    }
+
+    protected function isAjax()
+    {
+        // проверка на существование ячейки $_SERVER["HTTP_X_REQUESTED_WITH"] (по дефолту она отсутствует)
+        return isset($_SERVER["HTTP_X_REQUESTED_WITH"]) && $_SERVER["HTTP_X_REQUESTED_WITH"] === "XMLHttpRequest";
+    }
+
+    protected function redirect($http = false, $code = false)
+    {
+        if($code)
+        {
+            $codes = ["301" => "HTTP/1.1 301 Move Permanently"];
+
+            // если данная ячейка существует, то отправляем браузеру указанный заголовок через метод header()
+            // header() - отправляет HTTP-заголовок
+            if($codes[$code]) header($codes[$code]);
+        }
+
+        if($http) $redirect = $http;
+        // $_SERVER["HTTP_REFERER"] - будет существовать только если пользователь уже "гуляет" по нашему сайту
+        // если $_SERVER["HTTP_REFERER"] не существует, то перенаправляем пользователя на главную страницу сайта
+        else $redirect = isset($_SERVER["HTTP_REFERER"]) ? $_SERVER["HTTP_REFERER"] : PATH;
+
+        header("Location: $redirect");
+
+        exit();
+    }
+
+    // метод универсального подключения стилей в шаблонах html
+    protected function getStyles()
+    {
+        if($this->styles)
+        {
+            foreach ($this->styles as $style) echo '<link rel="stylesheet" href="' . $style . '"></link>';
+        }
+    }
+
+    protected function getScripts()
+    {
+        if($this->scripts)
+        {
+            foreach ($this->scripts as $script) echo '<script src="' . $script . '"></script>';
+        }
+    }
+
+    protected function writeLog($message, $file = "log.txt", $event = "Fault")
+    {
+        $dateTime = new \DateTime();
+
+        $str = $event . ":" . $dateTime->format("d-m-Y G:i:s") . "-" . $message . "\r\n";
+
+        file_put_contents("log/" . $file, $str, FILE_APPEND);
+    }
+}
